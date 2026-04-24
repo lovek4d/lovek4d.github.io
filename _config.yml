@@ -1,0 +1,13 @@
+title: Love Kharod
+description: Highly technical, AI forward SWE with strong product design sense. Fond of Python :)
+url: https://lovek4d.com
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .claude
+  - vendor
