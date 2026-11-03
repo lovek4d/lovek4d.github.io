@@ -17,6 +17,7 @@ title: Love Kharod
 
 - [LinkedIn](https://www.linkedin.com/in/kharodl/)
 - [GitHub](https://github.com/lovek4d)
+- [kickflip](https://kickflip.sh)
 - [Project Powerlifter](https://powerlifter.io) - coming soon
 
 ## Get in touch
